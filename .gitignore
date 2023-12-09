@@ -1,0 +1,5 @@
+.env
+pdf/
+data/
+build/*
+.DS_Store
