@@ -1,0 +1,8 @@
+arxiv
+langchain
+chainlit
+openai
+chromadb
+tiktoken
+pymupdf
+boto3

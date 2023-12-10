@@ -1,5 +1,6 @@
 .env
-pdf/
+pdfs/
 data/
+storage/
 build/*
 .DS_Store
